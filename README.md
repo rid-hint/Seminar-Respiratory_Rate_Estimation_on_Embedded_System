@@ -59,6 +59,11 @@ Algorithm Refinement: Explore incorporating machine learning models that are opt
 
 Extended Testing: Validate the algorithm's performance with a wider range of subjects and under more varied conditions to ensure its robustness in real-world scenarios.
 
+## Citation
+I. Morales, L. Martínez-Hornak, A. Solari and J. Oreggioni, "Respiratory Rate Estimation on Embedded System," in IEEE Embedded Systems Letters, vol. 16, no. 1, pp. 65-68, March 2024, doi: 10.1109/LES.2023.3279362.
+keywords: {Estimation;Microcontrollers;Signal processing algorithms;Embedded systems;Biomedical monitoring;Performance evaluation;Graphical user interfaces;Low-power embedded system;photoplethysmography (PPG);respiratory rate (RR) estimation;signal processing},
+
+
 ## License
 
 This project's source code is licensed under the MIT License.
